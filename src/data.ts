@@ -193,6 +193,7 @@ type Product = {
             title: "6 Pcs",
             additionalPrice: 14,
           },
+          
     ],
   };
   
