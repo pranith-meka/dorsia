@@ -70,6 +70,7 @@ export const entreeProduct = [
     desc: "Indulge in our succulent Aloo Tikka. Potato marinated in aromatic spices, grilled to perfection. Iconic.",
     img: "/temporary/p6.png",
     price: 16.99,
+    isFeatured: true,
     options: [
       {
           "title": "Small",
